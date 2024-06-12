@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zach</h1>
 <h3 align="center">A passionate Software Engineer, experienced in building full-stack JavaScript applications with React, Node, Express, and relational & non-relational databases. Avid contributor to the open source community. Co-creator of Lambda Peeler, an AWS Lambda layers and functions management tool.</h3>
 
-- 👨‍💻 All of my projects are available at **[www.zachmhamilton.com/](www.zachmhamilton.com/)**
+- 👨‍💻 All of my projects are available at **zachmhamilton.com/**
 
 - 📫 Email me ar **zachmhamilton@outlook.com**
 
