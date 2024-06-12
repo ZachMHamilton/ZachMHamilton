@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [www.zachmhamilton.com/](www.zachmhamilton.com/)
 
-- 📫 How to reach me **zachmhamilton.com**
+- 📫 Email me ar **zachmhamilton@outlook.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
