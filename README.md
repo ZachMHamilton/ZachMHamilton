@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zach</h1>
 <h3 align="center">A passionate Software Engineer, experienced in building full-stack JavaScript applications with React, Node, Express, and relational & non-relational databases. Avid contributor to the open source community. Co-creator of Lambda Peeler, an AWS Lambda layers and functions management tool.</h3>
 
-- 👨‍💻 All of my projects are available at **www.zachmhamilton.com/**
+- 👨‍💻 Follow my work at: **www.zachmhamilton.com/**
 
-- 📫 Email me ar **zachmhamilton@outlook.com**
+- 📫 Email me at: **zachmhamilton@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//zach-m-hamilton/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zach-m-hamilton/" height="30" width="40" /></a>
 </p>
