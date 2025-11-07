@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zach</h1>
-<h3 align="center">Passionate Software Engineer, experienced in building full-stack TypeScript/JavaScript & Java applications with React, Spring Boot, Node/Express, Next, with both relational & non-relational databases. Co-creator of Lambda Peeler, an open-source AWS Lambda layers and functions management tool.</h3>
+<h3 align="center">Passionate Software Engineer, experienced in building full-stack TypeScript/JavaScript & Java applications with React/Next, Spring Boot, Node/Express, with both relational & non-relational databases.</h3>
 
 - 👨‍💻 Follow my work at: **www.zachmhamilton.com/**
 
